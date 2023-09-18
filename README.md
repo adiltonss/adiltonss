@@ -4,6 +4,10 @@
 
 Apaixonado por tecnologia, programação e games.
 <br>
+Tenho 27 anos graduando em análise e desenvolvimento se sistemas.
+<br>
+Focado em desenvolvimento web.
+<br>
 Buscando conquistar minha primeira oportunidade no mercado como dev front end.
 <br>
 <br>
