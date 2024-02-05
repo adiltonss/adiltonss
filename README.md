@@ -4,7 +4,7 @@
 
 Apaixonado por tecnologia, programação e games.
 <br>
-Tenho 27 anos graduando em análise e desenvolvimento se sistemas.
+Tenho 27 anos graduando em análise e desenvolvimento de sistemas.
 <br>
 Focado em desenvolvimento web.
 <br>
